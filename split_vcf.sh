@@ -33,4 +33,4 @@ vcftools --non-ref-ac-any 1 --indv $indiv \
 $vcf_opt $vcf --recode --recode-INFO-all \
 --stdout | gzip -c > $vcf_indiv; }
 
-
+# hi kelly this is a test
